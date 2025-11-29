@@ -1,0 +1,8 @@
+altgraph
+colorama
+customtkinter
+darkdetect
+packaging
+pefile
+pillow
+pyinstaller
