@@ -6,3 +6,4 @@ packaging
 pefile
 pillow
 pyinstaller
+pyzbar
